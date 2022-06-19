@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHeroSquad</string>
+    <string name="squad_maker">Super Hero Squad Maker</string>
+    <string name="my_squad">My Squad</string>
+    <string name="image_desc">Super Hero Image</string>
+    <string name="close">Close</string>
+    <string name="fire_from_squad">🔥  Fire from Squad</string>
+    <string name="hire_to_squad">💪  Hire to Squad</string>
+</resources>
